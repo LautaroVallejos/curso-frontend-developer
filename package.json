@@ -1,0 +1,20 @@
+{
+  "name": "curso-frontend-development",
+  "version": "1.0.0",
+  "description": "Curso de frontend developer v1",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "node": "^15.3.0",
+    "nodemon": "^2.0.6",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon src/public/index.js"
+  },
+  "author": "Lautaro Vallejos",
+  "license": "ISC"
+}
